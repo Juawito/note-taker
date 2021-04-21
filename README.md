@@ -1,7 +1,7 @@
 # Note Taker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)  
 
   ## Description  
-  A fullstack application using express to create a web-server to save user input to the db.json file and rendering it to the page.  Allowing for the use of multiple fetch methods including Get, Post, and Delete. 
+  A fullstack application using express to create a web-server to save user input to the db.json file and rendering it to the page.  Allowing for the use of multiple fetch methods including Get, Post, and Delete.  The following application is deployed using heroku. 
 
   ## Table of Contents  
   - [Description](#description) 
@@ -37,3 +37,8 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.  
 
   ## Deployed
+  [Note Taker](https://hidden-river-17314.herokuapp.com/)  
+
+  ![Deployed Note Taker app](./images/note-taker.png "Landing Page")  
+
+  ![Note Taker input page](./images/note-taker-input.png "Input page")
